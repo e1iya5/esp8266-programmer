@@ -1,6 +1,8 @@
 # esp8266-programmer
 Please use the Fritzing software (http://fritzing.org/) to open the pcb file (v1.fzz)!
 
+![it should look this way](esp8266-programmer.jpg)
+
 ## What you'll need
 * FTD1232
 * ESP8266
